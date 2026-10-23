@@ -188,3 +188,7 @@ vikasyatra/
 - 🧠 AI evaluation metrics (BLEU/ROUGE)
 - 🔐 Secure authentication validation
 - ⚙️ Redis-based job queue
+
+## Project Updates
+
+This project is actively maintained.
